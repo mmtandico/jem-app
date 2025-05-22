@@ -3,7 +3,7 @@ const Main: React.FC = () => {
     <div className="page-container fade-in">
       <div className="municipal-header">
         <div className="municipal-info">
-          <div className="municipal-title">Bayan ng Mariao</div>
+          <div className="municipal-title">Bayan ng Marilao</div>
           <div className="municipal-subtitle">
             Lalawigan ng Bulacan • Itinatag noong 1796
           </div>
